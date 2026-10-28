@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines document retrieval with language generation. Documents are divided into chunks. Each chunk is indexed for retrieval. When a user asks a question, the system retrieves relevant chunks and provides them to a language model as context. Grounding answers in documents helps reduce hallucinations, but users should verify citations.
